@@ -1315,3 +1315,25 @@ org.eclipse.wst.xml.core.internal.document.StructuredDocumentRegionManagementExc
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1476)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1449)
+!SESSION 2020-02-07 19:02:07.116 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=11.0.6
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-07 19:02:30.121
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.core 1 0 2020-02-07 19:02:45.101
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface.text 2 0 2020-02-07 19:03:03.147
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2020-02-07 19:03:06.564
+!MESSAGE A workspace crash was detected. The previous session did not exit normally. Not using saved taglib indexes.
+
+!ENTRY org.eclipse.jface.text 2 0 2020-02-07 20:07:37.040
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
