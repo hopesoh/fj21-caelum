@@ -5,6 +5,8 @@
 	<head>
 	</head>
 	<body>
+	<c:import url="cabecalho.jsp" />
+	
 		<table>
 			<c:forEach var="contato" items="${dao.lista }">
 				<tr>
@@ -23,5 +25,7 @@
 				</tr>
 			</c:forEach>
 		</table>
+		
+	<c:import url="rodape.jsp" />	
 	</body>
 </html>
