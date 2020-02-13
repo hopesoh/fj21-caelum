@@ -13,6 +13,7 @@
 					//ID e alterando o HTML dele
 					$("#tarefa_"+id).html("Finalizado");
 				})
+				
 			}
 		</script>
 	

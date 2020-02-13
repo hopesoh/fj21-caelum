@@ -1,5 +1,4 @@
 #Tomcat publish data
-#Wed Feb 12 22:46:03 BRT 2020
-org.eclipse.jst.jee.server\:fj21-agenda=/home/web8757/Desktop/apache-tomcat-7.0.47/wtpwebapps/fj21-agenda
+#Thu Feb 13 20:33:19 BRT 2020
 org.eclipse.jst.jee.server\:/binary\:/home/web8757/eclipse-workspace/fj21-tarefas/WebContent/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar=/home/web8757/Desktop/apache-tomcat-7.0.47/wtpwebapps/fj21-tarefas/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar
 org.eclipse.jst.jee.server\:fj21-tarefas=/home/web8757/Desktop/apache-tomcat-7.0.47/wtpwebapps/fj21-tarefas
